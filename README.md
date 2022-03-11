@@ -8,4 +8,4 @@ I only have the very basic of basic schemas, data flow and an SQL file in the re
 
 * I'm planning on using Node.js for the API routes and Prisma as an ORM for the database modeling, I'm also considering using GraphQL for querying as some of the models will have to be READ ONLY (planets signs and eventually ephemeris')
 
-* Emphemeris' and Ephemerides are essentially tables or groups of tables that contain the calculated positions for the planetary bodies for a given period of time. I'm still mulling over how I want to handle this data. Empemeris' contain so much data that it is possible that I will have to either: *keep the information in a separate database or find a secondary API that keeps this data in an easy-to-use format
+* Emphemeris' and Ephemerides are essentially tables or groups of tables that contain the calculated positions for the planetary bodies for a given period of time. I'm still mulling over how I want to handle this data. Empemeris' contain so much data that it is possible that I will have to either: *keep the information in a separate database or find a secondary API that keeps this data in an easy-to-use format*
