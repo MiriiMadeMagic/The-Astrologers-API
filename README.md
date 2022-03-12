@@ -1,10 +1,10 @@
 # The-Astrologers-API
 Accessible Astrology API for ordinary people that want to build extraordinary apps!
 
-I wanted to create an accessible Astrology API after I was unable to find one for my first capstone. The only decent API I could find was *severely* paywalled. I think we'd have a lot better Astrology content if we had more accessible technology Astrologers and the developers can use! So here comes me brining you **The Astrologers API**
+I wanted to create an accessible Astrology API after I was unable to find one for my first capstone. The only decent API I could find was not accessible. I think we'd have a lot better Astrology content if we had more available technology Astrologers and the Developers can use! So here comes me bringing you **The Astrologers API**
 
 ## Story thus Far
-I only have the very basic of basic schemas, data flow and an SQL file in the repo. Astrology is a practice of very complex relationships so my goal is to fine tune the basic more straightforward features - natal charts and horoscopes- then build out the application. 
+I only have the very basic of basic schemas, data flow and an SQL file in the repo. Astrology is a practice of very complex relationships so my goal is to fine tune the basic more straightforward features - natal charts and horoscopes- then build out the application further. 
 
 * I'm planning on using Node.js for the API routes and Prisma as an ORM for the database modeling, I'm also considering using GraphQL for querying as some of the models will have to be READ ONLY (planets signs and eventually ephemeris')
 
